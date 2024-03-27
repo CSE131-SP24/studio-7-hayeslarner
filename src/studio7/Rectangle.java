@@ -58,10 +58,9 @@ public class Rectangle {
 		r2.print();
 		System.out.println(r2.Square(r2));
 		
-		r2.rDraw(0.1, 0.1);
 		r1.rDraw(0.5, 0.5);
+		r2.rDraw(0.1, 0.1);
 	}
-
 	
 
 }
